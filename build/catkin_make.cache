@@ -1,0 +1,2 @@
+check
+-DCATKIN_DEVEL_PREFIX=/home/xu/path/devel -DCMAKE_INSTALL_PREFIX=/home/xu/path/install -G Unix Makefiles

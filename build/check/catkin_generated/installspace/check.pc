@@ -1,0 +1,8 @@
+prefix=/home/xu/path/install
+
+Name: check
+Description: Description of check
+Version: 0.0.0
+Cflags: -I/home/xu/path/install/include
+Libs: -L/home/xu/path/install/lib 
+Requires: 
